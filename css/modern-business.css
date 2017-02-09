@@ -91,3 +91,14 @@ footer {
         height: 70%;
     }
 }
+
+/* navbar */
+.navbar-collapse {
+    background-color: #228B22;
+	border-color: #228B22;
+}
+
+.navbar-inverse {
+    background-color: #228B22;
+	border-color: #228B22;
+}
